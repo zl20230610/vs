@@ -2,11 +2,11 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "到底还能不能行";
+	cout << "我终于弄完了" << endl;
+	cout << "我是甜菜" << endl;
 }
 
 
