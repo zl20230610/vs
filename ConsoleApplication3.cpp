@@ -7,6 +7,7 @@ int main()
 {
 	cout << "我终于弄完了" << endl;
 	cout << "我是甜菜" << endl;
+	cout << "我又回来了" << endl;
 }
 
 
